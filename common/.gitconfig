@@ -1,0 +1,12 @@
+[user]
+	name = John Crickett
+	email = 3667898+JohnCrickett@users.noreply.github.com
+
+[alias]
+ co = checkout
+ ci = commit
+ s = status
+ br = branch
+ d = diff
+ l = log
+ 
