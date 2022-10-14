@@ -1,0 +1,1 @@
+export PATH=$PATH:~/dotfiles/nix-common/scripts/
